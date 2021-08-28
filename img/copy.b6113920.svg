@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>复制icon</title>
+    <g id="域名" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-724.000000, -229.000000)" id="编组-37">
+            <g transform="translate(360.000000, 95.000000)">
+                <g id="编组-12" transform="translate(0.000000, 116.000000)">
+                    <g id="复制icon" transform="translate(364.000000, 18.000000)">
+                        <rect id="矩形" x="0" y="0" width="28" height="28"></rect>
+                        <g id="编组-11" transform="translate(3.111111, 3.111111)" stroke="#3C3C43" stroke-opacity="0.4" stroke-width="2">
+                            <rect id="矩形" x="0" y="6.11111111" width="15" height="15" rx="2"></rect>
+                            <path d="M9.3850223,15 L8.33333333,15 C7.22876383,15 6.33333333,14.1045695 6.33333333,13 L6.33333333,2 C6.33333333,0.8954305 7.22876383,0 8.33333333,0 L19.3333333,0 C20.4379028,0 21.3333333,0.8954305 21.3333333,2 L21.3333333,3.01708098" id="路径" stroke-linecap="round" transform="translate(13.833333, 7.500000) scale(-1, 1) translate(-13.833333, -7.500000) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
