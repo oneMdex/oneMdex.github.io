@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="55px" height="48px" viewBox="0 0 55 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons</title>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#1548DB" offset="0%"></stop>
+            <stop stop-color="#6A90DA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="98.8803408%" x2="50%" y2="0%" id="linearGradient-2">
+            <stop stop-color="#0B2F94" offset="0%"></stop>
+            <stop stop-color="#2863D7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="域名" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-563.000000, -510.000000)" id="编组-36">
+            <g transform="translate(0.000000, 400.000000)">
+                <g id="编组-24" transform="translate(360.000000, 101.000000)">
+                    <g id="编组-9" transform="translate(203.000000, 0.000000)">
+                        <g id="Icons" transform="translate(0.000000, 9.000000)">
+                            <rect id="矩形" fill="url(#linearGradient-1)" opacity="0.5" x="30" y="17" width="25" height="31" rx="6"></rect>
+                            <rect id="矩形" fill="url(#linearGradient-2)" x="0" y="0" width="44" height="48" rx="6"></rect>
+                            <polyline id="路径-11" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" transform="translate(22.000000, 23.500000) scale(-1, 1) translate(-22.000000, -23.500000) " points="7 24.0111538 12.0003179 24.0111538 17.2968582 16 26.6183558 31 32.1575216 24.280807 37 24.280807"></polyline>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
